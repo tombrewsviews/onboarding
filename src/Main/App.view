@@ -17,6 +17,7 @@ fontWeight 600
 textAlign center
 marginTop 10
 lineHeight 1.8
+paddingLeft 10
 
 Text
 fontSize 18
