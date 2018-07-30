@@ -27,7 +27,7 @@ fontWeight 600
 textAlign center
 
 Text
-fontSize 14
+fontSize 12
 text < Instead of having to buy an entire share, invest any amount you want.
 fontFamily Montserrat
 color #1c4690
