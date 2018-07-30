@@ -55,7 +55,7 @@ borderBottomRightRadius 4
 borderStyle solid
 borderWidth 1
 borderColor #003180
-backgroundColor #003180
+backgroundColor #fff
 when <IsSelected
 borderStyle solid
 borderWidth 1
