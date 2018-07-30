@@ -47,7 +47,7 @@ flexShrink 1
 justifyContent center
 Horizontal
 backgroundColor #003180
-width 100
+width 10
 height 40
 borderTopLeftRadius 2
 borderTopRightRadius 2
