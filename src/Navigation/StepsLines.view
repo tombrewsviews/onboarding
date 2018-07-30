@@ -9,7 +9,7 @@ borderStyle solid
 borderWidth 1
 borderColor #003180
 backgroundColor #fff
-marginLeft 10
+marginLeft < 10
 when <IsSelected
 borderStyle solid
 borderWidth 1
