@@ -19,7 +19,7 @@ flexGrow 1
 flexShrink 1
 flexBasis auto
 Text
-fontSize 18
+fontSize 24
 text < Functional shares
 fontFamily Montserrat
 color #001b68
