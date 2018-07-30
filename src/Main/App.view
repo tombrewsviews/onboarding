@@ -15,6 +15,7 @@ text < Functional shares
 fontFamily Montserrat
 color #001b68
 fontWeight 600
+textAlign center
 
 Text
 fontSize 14
