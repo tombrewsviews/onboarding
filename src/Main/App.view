@@ -8,6 +8,7 @@ Step1
 width 320
 height 100%
 
+Vertical
 Text
 fontSize 14
 text < Instead of having to buy an entire share, invest any amount you want.
@@ -20,7 +21,6 @@ lineHeight 1.8
 paddingLeft 40
 paddingRight 40
 
-Vertical
 Text
 fontSize 18
 text < Functional shares
