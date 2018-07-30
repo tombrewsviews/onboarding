@@ -46,20 +46,7 @@ flexGrow 1
 flexShrink 1
 justifyContent center
 paddingBottom 50
-Horizontal
-width 8
-height 4
-borderTopLeftRadius 4
-borderTopRightRadius 4
-borderBottomLeftRadius 4
-borderBottomRightRadius 4
-borderStyle solid
-borderWidth 1
-borderColor #003180
-backgroundColor #fff
-when <IsSelected
-borderStyle solid
-borderWidth 1
-borderColor #003180
-backgroundColor #003180
-width 15 spring
+StepsLines
+
+StepsLines
+marginLeft 0
