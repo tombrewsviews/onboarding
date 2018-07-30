@@ -53,6 +53,7 @@ borderTopRightRadius 4
 borderBottomLeftRadius 4
 borderBottomRightRadius 4
 borderStyle solid
+borderWidth 1
 
 Horizontal
 backgroundColor #003180
