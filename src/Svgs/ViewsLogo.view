@@ -1,0 +1,24 @@
+ViewsLogo Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+width < 200
+height < 200
+viewBox 0 0 200 200
+SvgGroup
+fillRule nonzero
+stroke < #979797
+strokeWidth 4
+fill < none
+SvgPath
+d M4 36h129v129H4z
+
+SvgPath
+d M132 36h65v65h-65z
+
+SvgPath
+d M132 100h65v65h-65z
+

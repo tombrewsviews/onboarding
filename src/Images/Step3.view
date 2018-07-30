@@ -1,0 +1,10 @@
+Step3 Image
+alignSelf < auto
+backgroundColor < transparent
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+source < ./Step3.jpg
+width < 816
+height < 816
