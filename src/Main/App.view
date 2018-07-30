@@ -58,3 +58,4 @@ borderColor #003180
 when <IsSelected
 borderStyle solid
 borderWidth 1
+borderColor #003180
