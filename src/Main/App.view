@@ -15,6 +15,7 @@ fontFamily Montserrat
 color #1c4690
 fontWeight 600
 textAlign center
+marginTop 10
 
 Text
 fontSize 18
