@@ -18,7 +18,7 @@ textAlign center
 marginTop 10
 lineHeight 1.8
 paddingLeft 30
-paddingRight 10
+paddingRight 30
 
 Text
 fontSize 18
