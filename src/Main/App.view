@@ -54,6 +54,7 @@ borderBottomLeftRadius 4
 borderBottomRightRadius 4
 borderStyle solid
 borderWidth 1
+borderColor #ffaa00
 
 Horizontal
 backgroundColor #003180
