@@ -10,6 +10,13 @@ height 100%
 
 Vertical
 Text
+fontSize 18
+text < Functional shares
+fontFamily Montserrat
+color #001b68
+fontWeight 600
+
+Text
 fontSize 14
 text < Instead of having to buy an entire share, invest any amount you want.
 fontFamily Montserrat
@@ -20,10 +27,3 @@ marginTop 10
 lineHeight 1.8
 paddingLeft 40
 paddingRight 40
-
-Text
-fontSize 18
-text < Functional shares
-fontFamily Montserrat
-color #001b68
-fontWeight 600
