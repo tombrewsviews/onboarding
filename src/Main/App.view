@@ -8,6 +8,7 @@ Vertical
 flexShrink 1
 flexGrow 1
 justifyContent center
+flexBasis auto
 Step1
 width 320
 height 100%
