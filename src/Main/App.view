@@ -20,6 +20,7 @@ lineHeight 1.8
 paddingLeft 40
 paddingRight 40
 
+Vertical
 Text
 fontSize 18
 text < Functional shares
