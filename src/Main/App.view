@@ -20,7 +20,7 @@ flexShrink 1
 flexBasis auto
 Text
 fontSize 24
-text < Functional shares
+text < Fractional shares
 fontFamily Montserrat
 color #001b68
 fontWeight 600
