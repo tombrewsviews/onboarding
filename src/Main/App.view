@@ -48,7 +48,7 @@ justifyContent center
 Horizontal
 backgroundColor #003180
 width 20
-height 6
+height 4
 borderTopLeftRadius 4
 borderTopRightRadius 4
 borderBottomLeftRadius 4
