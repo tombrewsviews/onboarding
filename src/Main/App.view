@@ -4,10 +4,10 @@ flexGrow 1
 flexShrink 1
 flexBasis auto
 justifyContent center
-Text
-fontSize 18
-text < Hello Views Tools!
-
 Step1
 width 320
 height 100%
+
+Text
+fontSize 18
+text < Hello Views Tools!
