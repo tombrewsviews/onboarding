@@ -23,7 +23,7 @@ fontSize 22
 text < Fractional shares
 fontFamily Montserrat
 color #001b68
-fontWeight 600
+fontWeight 500
 textAlign center
 
 Text
