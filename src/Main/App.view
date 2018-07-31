@@ -25,6 +25,7 @@ fontFamily Montserrat
 color #001b68
 fontWeight 500
 textAlign center
+marginTop 4
 
 Text
 fontSize 13
