@@ -5,7 +5,7 @@ flexGrow 1
 flexShrink 1
 justifyContent center
 backgroundColor #ffaa00
-when <!isCondition
+when <isCondition
 backgroundColor #ff007e
 Text
 color #323232
