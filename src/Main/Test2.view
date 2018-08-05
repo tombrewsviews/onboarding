@@ -13,7 +13,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Type something...
-when <!isCondition
+when <isCondition
 color #ffffff
 when <isCondition1
 color #1740e6
