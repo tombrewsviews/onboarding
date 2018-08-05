@@ -1,0 +1,28 @@
+Test2 Vertical
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+backgroundColor #ffaa00
+when <!isCondition
+backgroundColor #ff007e
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
+when <!isCondition
+color #ffffff
+when <isCondition1
+color #1740e6
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
+when <!isCondition
+color #323232
